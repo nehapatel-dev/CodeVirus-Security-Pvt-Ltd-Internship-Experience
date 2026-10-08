@@ -65,3 +65,9 @@ During my internship, I worked on a real-world web application and contributed t
 - Git & GitHub
 - cPanel
 - Web Deployment
+
+- ## Confidentiality
+
+This repository contains documentation of my internship experience only.
+
+The source code, database, credentials, client information, internal documents, and other confidential assets of the organization are not included, as they are proprietary to the organization.
