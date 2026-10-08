@@ -52,3 +52,16 @@ During my internship, I worked on a real-world web application and contributed t
 ### Deployment
 - Worked with cPanel-based hosting and deployment.
 - Currently working on backend and deployment-related tasks.
+
+- ## Technologies & Tools
+
+- Python
+- Flask
+- React
+- JavaScript
+- HTML & CSS
+- Database / SQL
+- Excel
+- Git & GitHub
+- cPanel
+- Web Deployment
